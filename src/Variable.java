@@ -9,5 +9,8 @@ public class Variable {
 
         var nama = "Dhandy Putra Fahruddin";
         System.out.println(nama);
+
+        final var name1 = "Dhandy Putra Fahruddin";
+        System.out.println(name1);
     }
 }
