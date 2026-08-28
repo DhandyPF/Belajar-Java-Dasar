@@ -1,5 +1,6 @@
 public class IfStatement {
     static void main() {
+        System.out.println("If Statement");
         var nilai = 80;
         var absen = 90;
 
