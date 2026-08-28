@@ -1,4 +1,4 @@
-public class ArithmeticOperator {
+public class OperasiMatematika {
     static void main() {
         // Arithmetic Operator
         System.out.println("=== Arithmetic Operator ===");
