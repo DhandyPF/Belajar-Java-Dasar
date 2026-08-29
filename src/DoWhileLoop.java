@@ -1,6 +1,6 @@
 public class DoWhileLoop {
     static void main() {
-        var counter = 1;
+        var counter = 100;
         do {
             System.out.println("Perulangan " + counter);
             counter++;
