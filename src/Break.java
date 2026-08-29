@@ -5,7 +5,7 @@ public class Break {
             System.out.println("Perulangan " + counter);
             counter++;
 
-            if(counter >
+            if(counter >= 20) {
                 break;
             }
         }
