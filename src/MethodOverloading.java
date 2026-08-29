@@ -15,7 +15,7 @@ public class MethodOverloading {
         System.out.println("Hello " + name);
     }
 
-    // Lebih Dari 1 Parameter
+    // Dengan 2 Parameter
     static void sayHello(String firstName, String lastName) {
         System.out.println("Hello " + firstName + " " + lastName);
     }
