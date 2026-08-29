@@ -47,6 +47,6 @@ public class SwitchStatement {
         case "C": yield "Nilai C";
         case "D": yield "Nilai D";
         default : yield "Yahahahahaha";
-        }
+        };
     }
 }
